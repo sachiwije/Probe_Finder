@@ -10,3 +10,5 @@
 2. Change file path in find_baits.sh script within code_dir folder and gene_probes.sh scripts within main folder.
 3. Exactly add relevant information into probe.txt.
 4. Run gene_probes.sh script.
+
+Any specific question can be directed to naung.m@wehi.edu.au
