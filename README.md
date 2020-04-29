@@ -1,7 +1,7 @@
 # Probe Finder Pipeline 
 
 - mismatch_tm_candidates.R find the probes that pass through melting temperature and mismatch.
-- blastn the candidate probes (the input = _probes_candidate.fasta)
+- blastn the candidate probes
 - final_probes.R decides the most suitable probes that have passed above filters based on user-defined parameters. 
 
 
