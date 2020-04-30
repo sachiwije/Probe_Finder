@@ -11,4 +11,4 @@
 3. Exactly add relevant information into probe.txt.
 4. Run gene_probes.sh script.
 
-Any specific question can be directed to naung.m@wehi.edu.au
+Transferring pipeline into snakemake are underway. Any specific question can be directed to naung.m@wehi.edu.au
