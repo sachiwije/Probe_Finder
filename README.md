@@ -6,9 +6,9 @@
 
 
 ## To run Probe_Finder
-1. Blast need to be installed and BlastDB needs to be built using relevant genomes that is required to be removed.
+1. Blastn need to be installed and Blast_DB  needs to be downloaded.
 2. Change file path in find_baits.sh script within code_dir folder and gene_probes.sh scripts within main folder.
-3. Exactly add relevant information into probe.txt.
+3. Exactly add relevant information into probe.txt as shown.
 4. Run gene_probes.sh script.
 
 Transferring pipeline into snakemake are underway. Any specific question can be directed to naung.m@wehi.edu.au
